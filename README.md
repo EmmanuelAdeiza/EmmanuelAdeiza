@@ -10,8 +10,6 @@ Call me = "Adeiza" 🤗
 -💬 Ask me about the journey and the answer is `Vain`.
 ```
 
-![GitHub Activity Graph]([https://activity-graph.herokuapp.com/graph?username=Adeiza&theme=dracula](https://activity-graph.herokuapp.com/graph?username=EmmanuelAdeiza&theme=dracula))
-
 ![Metrics](https://metrics.lecoq.io/EmmanuelAdeiza?template=classic&base.community=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FAccra)
 
 ![GitHub Activity Graph]([https://activity-graph.herokuapp.com/graph?username=Adeiza&theme=dracula](https://activity-graph.herokuapp.com/graph?username=EmmanuelAdeiza&theme=dracula))
