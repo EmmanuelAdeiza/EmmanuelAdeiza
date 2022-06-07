@@ -12,8 +12,8 @@ Call me = "Adeiza" 🤗
 
 <h3 align="left">🔌 CONNECT:</h3>
 
-[![telegram badge](https://img.shields.io/badge/Adeiza-30302f?style=for-the-badge&logo=telegram)](https://t.me/BENTILZONE)
-[![Twitter badge](https://img.shields.io/badge/import_AI-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/themanbentil)
+[![telegram badge](https://img.shields.io/badge/Adeiza-30302f?style=for-the-badge&logo=telegram)](https://t.me/Adeiza29)
+[![Twitter badge](https://img.shields.io/badge/import_AI-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/ozi_adeiza)
 [![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-ozi-yusuf-b11ab1172/)
 [![whatsApp badge](https://img.shields.io/badge/ADEIZA-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/2348165715423?text=Hello%20Adeiza!%20I%27m%20coming%20from%20your%20Github%20profile)
 
