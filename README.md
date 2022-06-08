@@ -26,7 +26,7 @@ Call me = "Adeiza" 🤗
     <img src="https://img.shields.io/badge/Flutter-E34F26?style=for-the-badge&logo=Flutter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/EmmanuelAdeiza">
-    <img src="https://img.shields.io/badge/Dart-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-1572B6?style=for-the-badge&logo=dart&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/EmmanuelAdeiza">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
