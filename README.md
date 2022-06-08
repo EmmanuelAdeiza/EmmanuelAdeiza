@@ -73,5 +73,5 @@ Call me = "Adeiza" 🤗
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EmmanuelAdeiza&theme=dracula) 
  
-<h2>🏆My Github Profile Trophy</h2>
+<h2>My Github Profile Trophy🏆</h2>
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=EmmanuelAdeiza&column=7&theme=gruvbox&no-frame=true%22"/>
