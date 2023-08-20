@@ -20,7 +20,7 @@ Call me = "Adeiza" 🤗
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 
-### I Work :
+### I work :
 
 <a href="https://github.com/EmmanuelAdeiza">
     <img src="https://img.shields.io/badge/Flutter-E34F26?style=for-the-badge&logo=Flutter&logoColor=white" />
