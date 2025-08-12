@@ -34,7 +34,12 @@ Call me = "Adeiza" 🤗
 <a href="https://github.com/EmmanuelAdeiza">
     <img src="https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django&logoColor=F7DF1E" />
 </a>&nbsp;&nbsp;
-
+<a href="https://github.com/EmmanuelAdeiza">
+    <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=F7DF1E" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/EmmanuelAdeiza">
+    <img src="https://img.shields.io/badge/Kotlin-323330?style=for-the-badge&logo=kotlin&logoColor=F7DF1E" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/EmmanuelAdeiza">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>&nbsp;&nbsp;
